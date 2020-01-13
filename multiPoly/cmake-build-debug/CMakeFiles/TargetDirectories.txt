@@ -1,0 +1,3 @@
+/home/wang/code/algorithm_zd/multiPoly/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wang/code/algorithm_zd/multiPoly/cmake-build-debug/CMakeFiles/multiPoly.dir
+/home/wang/code/algorithm_zd/multiPoly/cmake-build-debug/CMakeFiles/edit_cache.dir
